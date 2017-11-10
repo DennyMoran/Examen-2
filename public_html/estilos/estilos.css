@@ -8,3 +8,23 @@ and open the template in the editor.
     Author     : 00140291
 */
 
+ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 22px;
+}
+
+
+#cabecera{
+    text-align: center;
+    font-family: Mistral;
+    color: #060606
+}
+#lista{
+    text-align: center;
+}
+#cuerpo{
+     text-align: center;
+    font-family: Mistral;
+    font-size: 22px;
+}
